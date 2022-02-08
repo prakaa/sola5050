@@ -1,0 +1,21 @@
+﻿Power station,Fuel,SRMC ($/MWh),Capacity (MW),Current Available Output (%),Current Bid ($)
+Guthega,Water,2,80,0.5,3
+Murray*,Water,1,1575,0.25,20
+Broken Hill Turbines,Diesel,25,50,0.18,25
+Bayswater,Coal,38,2800,0.2,38
+Eraring,Coal,40,3000,0.5,40
+Vales Point,Coal,42,1360,0.2,42
+Mount Piper,Coal,45,1400,0.6,45
+Liddell,Coal,53,2200,0.1,53
+Tallawarra,Natural Gas,103,460,0.11,103
+Colongra,Natural Gas,125,724,0.1,125
+Smithfield,Natural Gas,130,175,0.72,130
+Uranquinty,Natural Gas,140,664,0.41,140
+Colongra*,Natural Gas,145,724,0.13,145
+Tallawarra*,Natural Gas,150,460,0.07,150
+Gullen Range,Wind,3,172,0.89,100000
+Capital Wind Farm,Wind,1,140,1,100000
+Boco Rock,Wind,1,113,1,100000
+Moree Solar Farm,Solar,1,60,0.8,100000
+Royalla Solar Farm,Solar,1,20,0.8,100000
+Broken Hill Solar Plant,Solar,1,54,0.89,100000
